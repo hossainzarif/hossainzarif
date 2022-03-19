@@ -2,7 +2,7 @@
    <img align="center" width="100%" height="auto" alt="Coding"src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Matrix_Digital_rain_banner.gif/798px-Matrix_Digital_rain_banner.gif?20180717112308">
 </a>
 <h1 align="center">Hi 👋, I'm Zarif Hossain</h1>
-<h4 align="center">A passionate fullstack developer from Bangladesh. Like to work with new ideas and eager to learn new things.</h4>
+<h4 align="center">A passionate fullstack developer from Bangladesh. Like to work with new ideas and eager to learn new stuff.</h4>
 <!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
  -->
 
