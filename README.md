@@ -4,8 +4,8 @@
 <h1 align="center">Hi 👋, I'm Zarif Hossain</h1>
 <h4 align="center">A passionate fullstack developer from Bangladesh. Like to work with new ideas and eager to learn new things.</h4>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hossainzarif&label=Profile%20views&color=0e75b6&style=flat" alt="hossainzarif" /> </p>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
+<!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+ -->
 - 🔭 I’m currently working on **my thesis project.**
 
 - 🌱 I’m currently learning **MEARN stack and Swift.**
