@@ -2,15 +2,13 @@
    <img align="center" width="100%" height="auto" alt="Coding"src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Matrix_Digital_rain_banner.gif/798px-Matrix_Digital_rain_banner.gif?20180717112308">
 </a>
 <h1 align="center">Hi 👋, I'm Zarif Hossain</h1>
-<h4 align="center">A passionate fullstack developer from Bangladesh. Like to work with new ideas and eager to learn new stuff.</h4>
+<!-- <h4 align="center">phD graduate student at .</h4> -->
 <!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
  -->
 
-- 🔭 I’m currently working on **my thesis project.**
+- 🔭 I’m currently pursuing my phD in  **Computer Science**
 
-- 🌱 I’m currently learning **MEARN stack and Swift.**
-
-- 💬 Ask me about **react, javascript, blender**
+- 🌱 My research area focuses on Cybersecurity and Federated Learning
 
 - 📫 How to reach me **zarifh493@gmail.com**
 
