@@ -63,9 +63,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hossainzarif)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=hossainzarif&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=hossainzarif)  
 
 <p align="center"> 
   Visitor count<br>
